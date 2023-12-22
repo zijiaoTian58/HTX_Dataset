@@ -1,4 +1,12 @@
 # HTX Dataset
+The drone changes its position at a fixed altitude during recording to keep up with moving targets. However, the sudden camera movements lead to inaccurate measurement-to-track association (M2TA) and
+degrade tracking performance.
+
+In this dataset, there are 6 targets. The camera contains pannig, tilting and zooming.
+ Each frame has a size of 1920*1080 pixel.
+
+ Researchers can use this scenario to publish papers.
+
 
 ## Download
 
